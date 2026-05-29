@@ -40,8 +40,8 @@ Cada projeto simula um cenário real de empresa, demonstrando habilidades práti
 
 ## Contato
 
-- [LinkedIn](https://linkedin.com/in/) *(adicione seu link)*
-- [Trailhead](https://trailhead.salesforce.com/) *(adicione seu link)*
+- [LinkedIn](https://www.linkedin.com/in/ricardo-melosf/)
+- [Trailhead](https://www.salesforce.com/trailblazer/kwcvhkr8bnnpe6y3ko)
 
 ---
 
